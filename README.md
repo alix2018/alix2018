@@ -9,7 +9,7 @@
 - 🌱 Learning more about: Backend (NodeJS and PostgreSQL)
 - 💜 Interests: sports, travels, books and friends
 
-Find me around the web 🌎:
+**Find me around the web 🌎:**
 
 -  💅 Have a look at my Portfolio: [stephaniealix.com](https://stephaniealix.com/)
 - 🎶 Listen to my [Podcast](https://slash-podcast.fr/podcasts/progressive-web-app/) about PWA *(in French)*
