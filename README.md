@@ -1,4 +1,4 @@
-# I'm a Web Developer ☀️
+# I'm a Web Developer 👩‍💻
 
 ![age](https://img.shields.io/badge/age-25-ff69b4)
 ![focus](https://img.shields.io/badge/focus-web-informational)
@@ -18,4 +18,4 @@
 
 <br />
 
-<img alt="Stephanie's github stats" src="https://github-readme-stats.vercel.app/api?username=alix2018&&show_icons=true&theme=dracula" >
+<img alt="Stephanie's github stats" src="https://github-readme-stats.vercel.app/api?username=alix2018&&show_icons=true&theme=dracula&hide=contribs" >
