@@ -8,7 +8,7 @@
 
 - 🖥 Currently working on front end Web applications
 - 💃 Passionate about PWA
-- 🌱 Learning more about: Backend (NodeJS and Posgres)
+- 🌱 Learning more about: Backend (NodeJS and PostgreSQL)
 - 💜 Interests: sports, travels, books and friends
 
 Find me around the web 🌎:
