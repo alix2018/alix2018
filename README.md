@@ -3,7 +3,7 @@
 ![age](https://img.shields.io/badge/age-25-ff69b4)
 ![focus](https://img.shields.io/badge/focus-web-9cf)
 ![city](https://img.shields.io/badge/city-Amsterdam-brightgreen)
-![Views](https://komarev.com/ghpvc/?username=alix2018)
+![Views](https://komarev.com/ghpvc/?username=alix2018&label=Views)
 
 - 🖥 Currently working on front end Web applications
 - 💃 Passionate about PWA
