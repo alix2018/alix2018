@@ -1,4 +1,4 @@
-## Hi there ☀️
+# Hi there ☀️
 
 **I'm a Web Developer.**
 
@@ -22,8 +22,6 @@ Find me around the web 🌎:
 
 <img alt="Stephanie's github stats" src="https://github-readme-stats.vercel.app/api?username=alix2018&&show_icons=true&theme=dracula" >
 <br />
-<br />
 
 <img src="https://lh3.googleusercontent.com/a-/AOh14GgRrHInXNX1AgGpu7a9UCwKdPdfpLbmD0tWZPTVMg=s192-c-rg-br100" alt="logo" width="50"/>
-
 From [alix2018](https://github.com/alix2018)
