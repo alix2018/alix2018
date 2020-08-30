@@ -1,6 +1,4 @@
-# Hi there ☀️
-
-**I'm a Web Developer.**
+# I'm a Web Developer ☀️
 
 ![age](https://img.shields.io/badge/age-25-ff69b4)
 ![focus](https://img.shields.io/badge/focus-web-informational)
