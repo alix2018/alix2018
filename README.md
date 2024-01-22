@@ -1,13 +1,12 @@
 # I'm a Web Developer 👩‍💻
 
-![age](https://img.shields.io/badge/age-26-ff69b4)
+![age](https://img.shields.io/badge/age-28-ff69b4)
 ![focus](https://img.shields.io/badge/focus-web-9cf)
 ![city](https://img.shields.io/badge/city-Amsterdam-brightgreen)
 ![Views](https://komarev.com/ghpvc/?username=alix2018&label=Views)
 
 -  🖥 Currently working on front end Web applications
 -  💃 Passionate about PWA
--  🌱 Learning more about: VueJS, Backend (NodeJS and PostgreSQL), Docker and Kubernetes
 -  💜 Interests: sports, travels, books and friends
 
 **Find me around the web 🌎:**
@@ -21,4 +20,6 @@
 
 <br />
 
-<img alt="Stephanie's github stats" src="https://github-readme-stats.vercel.app/api?username=alix2018&&show_icons=true&theme=dracula&hide=contribs" >
+![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=alix2018&show_icons=true&bg_color=00000000&hide=contribs)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix2018&exclude_repo=school-intranet-club-page,school-snake-project,school-R3D,school-text-translation,school-django-blog,hackathon-nuit-info)
