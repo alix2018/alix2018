@@ -12,7 +12,7 @@
 **Find me around the web 🌎:**
 
 -  💅 Have a look at my Portfolio (React): [stephaniealix.com](https://stephaniealix.com/)
--  🌍 Checkout my full stack project (React, NodeJS): [worldmappie](https://worldmappie.stephaniealix.com/)
+-  🌍 Checkout my full stack project (React, NodeJS): [worldmappie.stephaniealix.com](https://worldmappie.stephaniealix.com/)
 -  ♻️ Get inspired by my project about reducing waste: [lesswastefortheplanet.com](https://lesswastefortheplanet.com/)
 -  🎶 Listen to my [Podcast](https://slash-podcast.fr/podcasts/progressive-web-app/) about PWA *(in French)*
 -  📫 How to reach me:
@@ -20,6 +20,7 @@
 
 <br />
 
-![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=alix2018&show_icons=true&bg_color=00000000&hide=contribs)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix2018&exclude_repo=school-intranet-club-page,school-snake-project,school-R3D,school-text-translation,school-django-blog,hackathon-nuit-info)
+<br>
+![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=alix2018&show_icons=true&bg_color=00000000&hide=contribs)
+
