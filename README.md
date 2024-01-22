@@ -20,7 +20,13 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix2018&exclude_repo=school-intranet-club-page,school-snake-project,school-R3D,school-text-translation,school-django-blog,hackathon-nuit-info)
-<br>
-![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=alix2018&show_icons=true&bg_color=00000000&hide=contribs)
+<details>
+<summary>Some of my Github Public Stats 💻</summary>
+  <br>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alix2018&exclude_repo=school-intranet-club-page,school-snake-project,school-R3D,school-text-translation,school-django-blog,hackathon-nuit-info)
+  <br><br>
+  ![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=alix2018&show_icons=true&bg_color=00000000&hide=contribs)
+
+</details>
 
