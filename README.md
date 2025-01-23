@@ -1,6 +1,6 @@
 # I'm a Web Developer 👩‍💻
 
-![age](https://img.shields.io/badge/age-28-ff69b4)
+![age](https://img.shields.io/badge/age-30-ff69b4)
 ![focus](https://img.shields.io/badge/focus-web-9cf)
 ![city](https://img.shields.io/badge/city-Amsterdam-brightgreen)
 ![Views](https://komarev.com/ghpvc/?username=alix2018&label=Views)
